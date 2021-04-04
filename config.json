@@ -6,7 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "flow",
+  "theme": "classic",
   "theme-style": "./custom.css",
   "footer": "Pictures and Video are gathered from social media. At that moment no credit to protect owners.",
   "usage-stats": false
